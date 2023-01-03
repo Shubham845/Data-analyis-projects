@@ -6,3 +6,9 @@ link of visualisation: --> https://public.tableau.com/app/profile/shubham6674/vi
 
 -- Python Projects
 Movie_DS_ATA --> Data cleaning and extracting relevant info from the dataset in python language.
+
+
+
+
+--PowerBI projects
+Analyst Survey.pbix-->Visualisations Based on the responses in a survey made by different Data Analysts around the world.
